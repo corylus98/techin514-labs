@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../Lab_4_power_management"
+		},
+		{
+			"name": "Lab_4_power_firebase",
+			"path": ".."
+		},
+		{
+			"name": "Lab4_test_hcsr04",
+			"path": "../../Lab4_test_hcsr04"
+		}
+	],
+	"settings": {}
+}
