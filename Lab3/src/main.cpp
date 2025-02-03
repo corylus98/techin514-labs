@@ -9,7 +9,7 @@
 #include <WiFiClientSecure.h>
 
 
-#define WIFI_SSID "UW MPSK"
+#define WIFI_SSID 
 #define WIFI_PASSWORD  
 
 #define DATABASE_SECRET 
