@@ -9,10 +9,10 @@
 #include <WiFiClientSecure.h>
 
 
-#define WIFI_SSID 
-#define WIFI_PASSWORD  
+#define WIFI_SSID "UW MPSK"
+#define WIFI_PASSWORD "3aYztvetT%" 
 
-#define DATABASE_SECRET 
+#define DATABASE_SECRET "AIzaSyCjmyLM-73GmV6Tkh550X-PaWGU7VUUgHM" 
 #define DATABASE_URL "https://esp32-techin514-default-rtdb.firebaseio.com/" 
 
 #define STAGE_INTERVAL 12000 // 12 seconds each stage
